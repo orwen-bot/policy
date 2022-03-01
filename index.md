@@ -1,37 +1,29 @@
-## Welcome to GitHub Pages
+## Privacy Policy
 
-You can use the [editor on GitHub](https://github.com/orwen-bot/policy.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+__**ORWEN BOT PRIVACY POLICY**__
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+By using the bot you agree to our privacy policy
 
-### Markdown
+**WHAT DATA DO WE STORE?**
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+We do not collect any personal information relating your account like Passwords or any other Credentials. The data we collect includes the User IDs, Server IDs, Channel IDs and Some Role IDs. The bot never requests for any personal data of the users and any act that breaks the Tos of Discord is discouraged by us
 
-```markdown
-Syntax highlighted code block
+**WHY WE NEED THIS DATA?**
 
-# Header 1
-## Header 2
-### Header 3
+The data is required for the proper functioning of the bot features like Warning System, Logging and Autoroles. Without this data, our bot will not be able to perform these activities and thus making the features inaccessible for users
 
-- Bulleted
-- List
+**HOW DO WE USE THIS DATA?**
 
-1. Numbered
-2. List
+The data is used for the proper functioning for theWarning System, Logging activities and Autorole features of our Bot. User IDs are used to identify the users, Channel IDs are used to send the messages to the desginated channels and Server IDs to identify the Servers and the Role IDs are used for the Autorole feature
 
-**Bold** and _Italic_ and `Code` text
+**HOW LONG DO WE STORE YOUR DATA?**
 
-[Link](url) and ![Image](src)
-```
+The data is stored as long as the bot is in your Server and as soon as the bot is kicked or removed from the Server, the data is deleted and is no longer to accessable to anyone
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+**WHO DO WE SHARE THE DATA WITH**
 
-### Jekyll Themes
+We never share your data with anyone except for [MongoDB Inc](https://mongodb.com) whom is a DataBase Company and all the data for our Bot is stored on the MongoDB Servers and According to MongoDB Inc. the data is only accessable by us
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/orwen-bot/policy.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+**GOT CONCERNS OR QUERIES?**
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+If you have any concerns or queries relating our privacy policy or our bot or if you want your data to be removed, You can contact [KOUSHIK#7001](https://discord.com/users/779985841090330624) directy on our [Support Server](https://discord.gg/BfjTku9htY)

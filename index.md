@@ -1,6 +1,4 @@
-## Privacy Policy
-
-#ORWEN BOT PRIVACY POLICY
+## ORWEN BOT PRIVACY POLICY
 
 By using the bot you agree to our privacy policy
 
